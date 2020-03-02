@@ -1,0 +1,16 @@
+{
+    "name": "golovanov/product",
+    "authors": [
+        {
+            "name": "Alexander",
+            "email": "golovanov@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "helper\\": "app/"
+        }
+
+    }
+}
